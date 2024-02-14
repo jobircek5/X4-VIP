@@ -1,5 +1,5 @@
 import datetime;now = datetime.date.today();target = datetime.date(2024,2,14)
-if now >=target:exit("@ZIllZlll0دخن لا ضوج 💲 راسلني حتى افعلك @C39_CK")
+if now >=target:exit("@ZIllZlll0دخن لا ضوج 💲 راسلني حتى افعلك @ZIllZlll0")
 else:print("login")
 from os import path
 import os,base64,zlib,pip,urllib,time
