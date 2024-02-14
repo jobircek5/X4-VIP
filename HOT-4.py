@@ -1,4 +1,4 @@
-import datetime;now = datetime.date.today();target = datetime.date(2024,2,15)
+import datetime;now = datetime.date.today();target = datetime.date(2024,2,14)
 if now >=target:exit("@ZIllZlll0دخن لا ضوج 💲 راسلني حتى افعلك @C39_CK")
 else:print("login")
 from os import path
